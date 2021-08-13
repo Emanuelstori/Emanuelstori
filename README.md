@@ -10,4 +10,4 @@ Always open to new challenges.
 
 - 📍 From RS living in Pelotas.
 
-![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=yellow&link=https://www.instagram.com/emanuelstori/)](https://www.instagram.com/emanuelstori/) [
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=yellow&link=https://www.instagram.com/emanuelstori/)]
